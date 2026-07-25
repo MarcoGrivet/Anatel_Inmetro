@@ -1,9 +1,9 @@
 #==============================================================================
-#   Projeto 31864 - ANATEL/INMETRO/DIMCI/MEDIÇÃO ANATEL
-#   Meta II   - Estudo e Proposição de Ontologias e Formatos para Coleta e 
-#			   Armazenamento de Dados e Registros do SGM
-#   Produto I - Coleta de Dados Digitais : Recuperação de Legado
-#   Autor     - Marco Antonio Grivet Mattoso Maia
+   Projeto 31864 - ANATEL/INMETRO/DIMCI/MEDIÇÃO ANATEL
+   Meta II   - Estudo e Proposição de Ontologias e Formatos para Coleta e 
+			   Armazenamento de Dados e Registros do SGM
+   Produto I - Coleta de Dados Digitais : Recuperação de Legado
+   Autor     - Marco Antonio Grivet Mattoso Maia
 #============================================================================== 
 
 === OBJETIVO ===
