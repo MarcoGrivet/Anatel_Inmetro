@@ -27,6 +27,7 @@ Uma planillha .xlsx é gerada no diretório dos certificados analisados contendo
 esses atributos.
 
 Nesta versão apenas certificados dos laboratório abaixo estão sendo processados.
+
 	Anritsu
 	Bird
 	Celplan
@@ -38,11 +39,11 @@ Nesta versão apenas certificados dos laboratório abaixo estão sendo processad
 	Rodhe & Schwarz
 
 Está sendo providenciado a inclusão dos laboratórios:
+
 	FLIR
 	PUCRS
 	WaveControl
-	
-	
+		
 === UTILIZAÇÃO ===
 
 Para rodar este programa, recomenda-se o ambiente Visual Studio Code ou PyCharm.
