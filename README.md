@@ -64,6 +64,11 @@ para serem processados enquanto que os flattened (imagem) demoram tipicamente 20
 Assim para que o processamento não seja muito demorado em caso de testes iniciais,
 esses limites foram impostos.
 
+Passo 3:
+Alterar na linha 19 do arquivo my_pdf_library.py o endereço local da biblioteca 
+Tesseract. Para instalar essa biblioteca, consulte o Google porque existem procedimentos
+diferentes denpendendo do sistema operacional em uso.
+
 === REPORT DE FALHAS ===
 
 Nos casos em que o programa tenha um comportamento incorreto, favor enviar certificado
