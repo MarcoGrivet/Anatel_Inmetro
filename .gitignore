@@ -1,4 +1,17 @@
+# Ambientes virtuais
 venv314/
+venv/
+.venv/
+
+# Cache Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# VS Code
 .vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
